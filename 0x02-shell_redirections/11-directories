@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type 0x02-shell_redirections | wc -l
+find . -type d | wc -l
